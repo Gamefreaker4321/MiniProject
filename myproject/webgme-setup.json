@@ -1,0 +1,15 @@
+{
+  "components": {
+    "seeds": {
+      "testseed": {
+        "src": "src/seeds/testseed"
+      },
+      "petrinet": {
+        "src": "src/seeds/petrinet"
+      }
+    }
+  },
+  "dependencies": {
+    "seeds": {}
+  }
+}
